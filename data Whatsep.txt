@@ -41,11 +41,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"TM Washapp provides users with a convenient and efficient platform to access laundry services. With a few taps on their smartphones, customers can schedule pickup and delivery, choose the desired service options, and even track the progress of their laundry in real-time. ","photo2":"https://iili.io/HU7KBov.jpg"},
+  {"desc3":"One of the key features of TM Washapp is its ability to offer customized laundry solutions based on individual preferences. Users can specify the type of clothing, fabric care requirements, and any special instructions, ensuring that their laundry is treated with utmost care. The app provides a range of service options, such as dry cleaning","photo3":"https://iili.io/HU7KKNa.jpg"},
+  {"desc4":"TM Washapp brings transparency to the laundry industry by providing users with real-time updates on the status of their laundry. Customers can track the progress of their order, from pickup to delivery, ensuring a higher level of accountability from the service providers. ","photo4":"https://iili.io/HU7KCVR.jpg"},
+  {"desc5":"In an era where sustainability is a global priority, TM Washapp embraces an eco-friendly approach. The app encourages users to opt for eco-friendly laundry practices, such as using cold water for washing, reducing water consumption, and minimizing the use of harmful chemicals. ","photo5":"https://iili.io/HU7KxKN.jpg"},
+  {"descd":" By promoting sustainable habits, TM Washapp contributes to environmental preservation and helps users make informed choices for a greener future.","photod":"https://iili.io/HU7KzlI.jpg"}
    ]
  
 }
